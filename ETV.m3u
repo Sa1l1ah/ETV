@@ -1,161 +1,201 @@
 #EXTM3U
-#EXTINF:-1,AR: Channel 1
-http://stream.elcld.com:6001/stream/ch01/ch01_360.m3u8	
-#EXTINF:-1,AR: Channel 2
-http://stream.elcld.com:6001/stream/ch02/ch02_360.m3u8	
-#EXTINF:-1,AR: Channel 3
-http://stream.elcld.com:6001/stream/ch03/ch03_360.m3u8	
-#EXTINF:-1,AR: Channel 4
-http://stream.elcld.com:6001/stream/ch04/ch04_360.m3u8	
-#EXTINF:-1,AR: Channel 5
-http://stream.elcld.com:6001/stream/ch05/ch05_360.m3u8	
-#EXTINF:-1,AR: Channel 6
-http://stream.elcld.com:6001/stream/ch06/ch06_360.m3u8	
-#EXTINF:-1,AR: Channel 7
-http://stream.elcld.com:6001/stream/ch07/ch07_360.m3u8	
-#EXTINF:-1,AR: Channel 8
-http://stream.elcld.com:6001/stream/ch08/ch08_360.m3u8	
-#EXTINF:-1,AR: Channel 9
-http://stream.elcld.com:6001/stream/ch09/ch09_360.m3u8	
-#EXTINF:-1,AR: Channel 10
-http://stream.elcld.com:6001/stream/ch10/ch10_360.m3u8	
-#EXTINF:-1,AR: Channel 11
-http://stream.elcld.com:6001/stream/ch11/ch11_360.m3u8	
-#EXTINF:-1,AR: Channel 12
-http://stream.elcld.com:6002/stream/ch12/ch12_360.m3u8	
-#EXTINF:-1,AR: Channel 13
-http://stream.elcld.com:6002/stream/ch13/ch13_360.m3u8
-#EXTINF:-1,AR: Channel 14
-http://stream.elcld.com:6002/stream/ch14/ch14_360.m3u8
-#EXTINF:-1,AR: Channel 15
-http://stream.elcld.com:6002/stream/ch15/ch15_360.m3u8
-#EXTINF:-1,AR: Channel 16
-http://stream.elcld.com:6002/stream/ch16/ch16_360.m3u8	
-#EXTINF:-1,AR: Channel 17
-http://stream.elcld.com:6002/stream/ch17/ch17_360.m3u8	
-#EXTINF:-1,AR: Channel 18
-http://stream.elcld.com:6002/stream/ch18/ch18_360.m3u8	
-#EXTINF:-1,AR: Channel 19
-http://stream.elcld.com:6002/stream/ch19/ch19_360.m3u8	
-#EXTINF:-1,AR: Channel 20
-http://stream.elcld.com:6002/stream/ch20/ch20_360.m3u8	
-#EXTINF:-1,AR: Channel 21
-http://stream.elcld.com:6002/stream/ch21/ch21_360.m3u8	
-#EXTINF:-1,AR: Channel 22
-http://stream.elcld.com:6002/stream/ch22/ch22_360.m3u8	
-#EXTINF:-1,AR: Channel 23
-http://stream.elcld.com:6002/stream/ch23/ch23_360.m3u8	
-#EXTINF:-1,AR: Channel 24
-http://stream.elcld.com:6002/stream/ch24/ch24_360.m3u8	
-#EXTINF:-1,AR: Channel 25
-http://stream.elcld.com:6002/stream/ch25/ch25_360.m3u8	
-#EXTINF:-1,AR: Channel 26
-http://stream.elcld.com:6002/stream/ch26/ch26_360.m3u8	
-#EXTINF:-1,AR: Channel 27
-http://stream.elcld.com:6002/stream/ch27/ch27_360.m3u8	
-#EXTINF:-1,AR: Channel 28
-http://stream.elcld.com:6002/stream/ch28/ch28_360.m3u8	
-#EXTINF:-1,AR: Channel 29
-http://stream.elcld.com:6002/stream/ch29/ch29_360.m3u8	
-#EXTINF:-1,AR: Channel 30
-http://stream.elcld.com:6002/stream/ch30/ch30_360.m3u8	
-#EXTINF:-1,AR: Channel 31
-http://stream.elcld.com:6003/stream/ch31/ch31_360.m3u8	
-#EXTINF:-1,AR: Channel 32
-http://stream.elcld.com:6003/stream/ch32/ch32_360.m3u8	
-#EXTINF:-1,AR: Channel 33
-http://stream.elcld.com:6003/stream/ch33/ch33_360.m3u8	
-#EXTINF:-1,AR: Channel 34
-http://stream.elcld.com:6003/stream/ch34/ch34_360.m3u8	
-#EXTINF:-1,AR: Channel 35
-http://stream.elcld.com:6003/stream/ch35/ch35_360.m3u8	
-#EXTINF:-1,AR: Channel 36
-http://stream.elcld.com:6003/stream/ch36/ch36_360.m3u8	
-#EXTINF:-1,AR: Channel 37
-http://stream.elcld.com:6003/stream/ch37/ch37_360.m3u8	
-#EXTINF:-1,AR: Channel 38
-http://stream.elcld.com:6003/stream/ch38/ch38_360.m3u8	
-#EXTINF:-1,AR: Channel 39
-http://stream.elcld.com:6003/stream/ch39/ch39_360.m3u8	
-#EXTINF:-1,AR: Channel 40
-http://stream.elcld.com:6003/stream/ch40/ch40_360.m3u8	
-#EXTINF:-1,AR: ChannelHD 1
-http://stream.elcld.com:6001/stream/ch01/ch01_720.m3u8
-#EXTINF:-1,AR: ChannelHD 2
-http://stream.elcld.com:6001/stream/ch02/ch02_720.m3u8
-#EXTINF:-1,AR: ChannelHD 3
-http://stream.elcld.com:6001/stream/ch03/ch03_720.m3u8
-#EXTINF:-1,AR: ChannelHD 4
-http://stream.elcld.com:6001/stream/ch04/ch04_720.m3u8
-#EXTINF:-1,AR: ChannelHD 5
-http://stream.elcld.com:6001/stream/ch05/ch05_720.m3u8
-#EXTINF:-1,AR: ChannelHD 6
-http://stream.elcld.com:6001/stream/ch06/ch06_720.m3u8
-#EXTINF:-1,AR: ChannelHD 7
-http://stream.elcld.com:6001/stream/ch07/ch07_720.m3u8
-#EXTINF:-1,AR: ChannelHD 8
-http://stream.elcld.com:6001/stream/ch08/ch08_720.m3u8
-#EXTINF:-1,AR: ChannelHD 9
-http://stream.elcld.com:6001/stream/ch09/ch09_720.m3u8
-#EXTINF:-1,AR: ChannelHD 10
-http://stream.elcld.com:6001/stream/ch10/ch10_720.m3u8
-#EXTINF:-1,AR: ChannelHD 11
-http://stream.elcld.com:6001/stream/ch11/ch11_720.m3u8
-#EXTINF:-1,AR: ChannelHD 12
-http://stream.elcld.com:6002/stream/ch12/ch12_720.m3u8
-#EXTINF:-1,AR: ChannelHD 13
-http://stream.elcld.com:6002/stream/ch14/ch14_720.m3u8
-#EXTINF:-1,AR: ChannelHD 14
-http://stream.elcld.com:6002/stream/ch14/ch14_720.m3u8
-#EXTINF:-1,AR: ChannelHD 15
-http://stream.elcld.com:6002/stream/ch15/ch15_720.m3u8
-#EXTINF:-1,AR: ChannelHD 16
-http://stream.elcld.com:6002/stream/ch16/ch16_720.m3u8
-#EXTINF:-1,AR: ChannelHD 17
-http://stream.elcld.com:6002/stream/ch17/ch17_720.m3u8
-#EXTINF:-1,AR: ChannelHD 18
-http://stream.elcld.com:6002/stream/ch18/ch18_720.m3u8
-#EXTINF:-1,AR: ChannelHD 19
-http://stream.elcld.com:6002/stream/ch19/ch19_720.m3u8
-#EXTINF:-1,AR: ChannelHD 20
-http://stream.elcld.com:6002/stream/ch20/ch20_720.m3u8
-#EXTINF:-1,AR: ChannelHD 21
-http://stream.elcld.com:6002/stream/ch21/ch21_720.m3u8
-#EXTINF:-1,AR: ChannelHD 22
-http://stream.elcld.com:6002/stream/ch22/ch22_720.m3u8
-#EXTINF:-1,AR: ChannelHD 23
-http://stream.elcld.com:6002/stream/ch23/ch23_720.m3u8
-#EXTINF:-1,AR: ChannelHD 24
-http://stream.elcld.com:6002/stream/ch24/ch24_720.m3u8
-#EXTINF:-1,AR: ChannelHD 25
-http://stream.elcld.com:6002/stream/ch25/ch25_720.m3u8
-#EXTINF:-1,AR: ChannelHD 26
-http://stream.elcld.com:6002/stream/ch26/ch26_720.m3u8
-#EXTINF:-1,AR: ChannelHD 27
-http://stream.elcld.com:6002/stream/ch27/ch27_720.m3u8
-#EXTINF:-1,AR: ChannelHD 28
-http://stream.elcld.com:6002/stream/ch28/ch28_720.m3u8
-#EXTINF:-1,AR: ChannelHD 29
-http://stream.elcld.com:6002/stream/ch29/ch29_720.m3u8
-#EXTINF:-1,AR: ChannelHD 30
-http://stream.elcld.com:6002/stream/ch30/ch30_720.m3u8
-#EXTINF:-1,AR: ChannelHD 31
-http://stream.elcld.com:6003/stream/ch31/ch31_720.m3u8
-#EXTINF:-1,AR: ChannelHD 32
-http://stream.elcld.com:6003/stream/ch32/ch32_720.m3u8
-#EXTINF:-1,AR: ChannelHD 33
-http://stream.elcld.com:6003/stream/ch33/ch33_720.m3u8
-#EXTINF:-1,AR: ChannelHD 34
-http://stream.elcld.com:6003/stream/ch34/ch34_720.m3u8
-#EXTINF:-1,AR: ChannelHD 35
-http://stream.elcld.com:6003/stream/ch35/ch35_720.m3u8
-#EXTINF:-1,AR: ChannelHD 36
-http://stream.elcld.com:6003/stream/ch36/ch36_720.m3u8
-#EXTINF:-1,AR: ChannelHD 37
-http://stream.elcld.com:6003/stream/ch37/ch37_720.m3u8
-#EXTINF:-1,AR: ChannelHD 38
-http://stream.elcld.com:6003/stream/ch38/ch38_720.m3u8
-#EXTINF:-1,AR: ChannelHD 39
-http://stream.elcld.com:6003/stream/ch39/ch39_720.m3u8
-#EXTINF:-1,AR: ChannelHD 40
-http://stream.elcld.com:6003/stream/ch40/ch40_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 1
+http://stream.elcld.com:6001/sport/ch1/ch1_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 2
+http://stream.elcld.com:6001/sport/ch2/ch2_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 3
+http://stream.elcld.com:6001/sport/ch3/ch3_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 4
+http://stream.elcld.com:6001/sport/ch4/ch4_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 5
+http://stream.elcld.com:6001/sport/ch5/ch5_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 6
+http://stream.elcld.com:6001/sport/ch6/ch6_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 7
+http://stream.elcld.com:6001/sport/ch7/ch7_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 8
+http://stream.elcld.com:6001/sport/ch8/ch8_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 9
+http://stream.elcld.com:6001/sport/ch9/ch9_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 10
+http://stream.elcld.com:6001/sport/ch10/ch10_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 11
+http://stream.elcld.com:6001/sport/ch11/ch11_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 12
+http://stream.elcld.com:6001/sport/ch12/ch12_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 13
+http://stream.elcld.com:6001/sport/ch13/ch13_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 14
+http://stream.elcld.com:6001/sport/ch14/ch14_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 15
+http://stream.elcld.com:6003/sport/ch15/ch15_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 16
+http://stream.elcld.com:6003/sport/ch16/ch16_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 17
+http://stream.elcld.com:6003/sport/ch17/ch17_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 18
+http://stream.elcld.com:6003/sport/ch18/ch18_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 19
+http://stream.elcld.com:6003/sport/ch19/ch19_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 20
+http://stream.elcld.com:6003/sport/ch20/ch20_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 21
+http://stream.elcld.com:6003/sport/ch21/ch21_720.m3u8
+#EXTINF:-1,Shabakaty TV sport hd 22
+http://stream.elcld.com:6003/sport/ch22/ch22_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 1
+http://stream.elcld.com:6002/movies/ch1/ch1_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 2
+http://stream.elcld.com:6002/movies/ch2/ch2_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 3
+http://stream.elcld.com:6002/movies/ch3/ch3_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 4
+http://stream.elcld.com:6002/movies/ch4/ch4_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 5
+http://stream.elcld.com:6002/movies/ch5/ch5_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 6
+http://stream.elcld.com:6002/movies/ch6/ch6_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 7
+http://stream.elcld.com:6002/movies/ch7/ch7_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 8
+http://stream.elcld.com:6002/movies/ch8/ch8_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 9
+http://stream.elcld.com:6002/movies/ch9/ch9_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 10
+http://stream.elcld.com:6002/movies/ch10/ch10_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 11
+http://stream.elcld.com:6002/movies/ch11/ch11_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 12
+http://stream.elcld.com:6002/movies/ch12/ch12_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 13
+http://stream.elcld.com:6002/movies/ch13/ch13_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 14
+http://stream.elcld.com:6002/movies/ch14/ch14_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 15
+http://stream.elcld.com:6002/movies/ch15/ch15_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 16
+http://stream.elcld.com:6002/movies/ch16/ch16_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 17
+http://stream.elcld.com:6002/movies/ch17/ch17_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 18
+http://stream.elcld.com:6002/movies/ch18/ch18_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 19
+http://stream.elcld.com:6002/movies/ch19/ch19_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 20
+http://stream.elcld.com:6002/movies/ch20/ch20_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 21
+http://stream.elcld.com:6002/movies/ch21/ch21_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 22
+http://stream.elcld.com:6002/movies/ch22/ch22_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 23
+http://stream.elcld.com:6002/movies/ch23/ch23_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 24
+http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
+#EXTINF:-1,Shabakaty TV movies hd 25
+http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
+#EXTINF:-1,Shabakaty TV series hd 1
+http://stream.elcld.com:6002/series/ch1/ch1_720.m3u8
+#EXTINF:-1,Shabakaty TV series hd 2
+http://stream.elcld.com:6002/series/ch2/ch2_720.m3u8
+#EXTINF:-1,Shabakaty TV series hd 3
+http://stream.elcld.com:6002/series/ch3/ch3_720.m3u8
+#EXTINF:-1,Shabakaty TV series hd 4
+http://stream.elcld.com:6002/series/ch4/ch4_720.m3u8
+#EXTINF:-1,Shabakaty TV series hd 5
+http://stream.elcld.com:6002/series/ch5/ch5_720.m3u8
+#EXTINF:-1,Shabakaty TV series hd 6
+http://stream.elcld.com:6002/series/ch6/ch6_720.m3u8
+#EXTINF:-1,Shabakaty TV series hd 7
+http://stream.elcld.com:6002/series/ch7/ch7_720.m3u8
+#EXTINF:-1,Shabakaty TV series hd 8
+http://stream.elcld.com:6002/series/ch8/ch8_720.m3u8
+#EXTINF:-1,Shabakaty TV series hd 9
+http://stream.elcld.com:6003/series/ch9/ch9_720.m3u8
+#EXTINF:-1,Shabakaty TV series hd 10
+http://stream.elcld.com:6003/series/ch10/ch10_720.m3u8
+#EXTINF:-1,Shabakaty TV series hd 11
+http://stream.shabakaty.com:6001/series/ch11/ch11_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 1
+http://stream.elcld.com:6002/enter/ch1/ch1_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 2
+http://stream.elcld.com:6002/enter/ch2/ch2_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 3
+http://stream.elcld.com:6002/enter/ch3/ch3_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 4
+http://stream.elcld.com:6002/enter/ch4/ch4_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 5
+http://stream.elcld.com:6003/enter/ch5/ch5_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 6
+http://stream.elcld.com:6003/enter/ch6/ch6_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 7
+http://stream.elcld.com:6003/enter/ch7/ch7_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 8
+http://stream.elcld.com:6003/enter/ch8/ch8_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 9
+http://stream.elcld.com:6003/enter/ch9/ch9_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 10
+http://stream.elcld.com:6003/enter/ch10/ch10_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 11
+http://stream.elcld.com:6003/enter/ch11/ch11_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 12
+http://stream.elcld.com:6003/enter/ch12/ch12_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 13
+http://stream.elcld.com:6003/enter/ch13/ch13_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 14
+http://stream.elcld.com:6003/enter/ch14/ch14_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 15
+http://stream.elcld.com:6003/enter/ch15/ch15_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 16
+http://stream.elcld.com:6003/enter/ch16/ch16_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 17
+http://stream.elcld.com:6002/enter/ch17/ch17_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 18
+http://stream.elcld.com:6002/enter/ch18/ch18_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 19
+http://stream.elcld.com:6002/enter/ch19/ch19_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 20
+http://stream.elcld.com:6002/enter/ch20/ch20_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 21
+http://stream.elcld.com:6002/enter/ch21/ch21_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 22
+http://stream.elcld.com:6002/enter/ch22/ch22_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 23
+http://stream.elcld.com:6002/enter/ch23/ch23_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 24
+http://stream.elcld.com:6002/enter/ch24/ch24_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 25
+http://stream.elcld.com:6002/enter/ch25/ch25_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 26
+http://stream.elcld.com:6002/enter/ch26/ch26_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 27
+http://stream.elcld.com:6002/enter/ch27/ch27_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 28
+http://stream.elcld.com:6002/enter/ch28/ch28_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 29
+http://stream.elcld.com:6002/enter/ch29/ch29_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 30
+http://stream.shabakaty.com:6001/enter/ch30/ch30_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 31
+http://stream.shabakaty.com:6001/enter/ch31/ch31_720.m3u8
+#EXTINF:-1,Shabakaty TV enter hd 32
+http://stream.shabakaty.com:6001/enter/ch32/ch32_720.m3u8
+#EXTINF:-1,Shabakaty TV kids hd 1
+http://stream.elcld.com:6003/kids/ch1/ch1_720.m3u8
+#EXTINF:-1,Shabakaty TV kids hd 2
+http://stream.elcld.com:6003/kids/ch2/ch2_720.m3u8
+#EXTINF:-1,Shabakaty TV kids hd 3
+http://stream.elcld.com:6003/kids/ch3/ch3_720.m3u8
+#EXTINF:-1,Shabakaty TV kids hd 4
+http://stream.elcld.com:6003/kids/ch4/ch4_720.m3u8
+#EXTINF:-1,Shabakaty TV kids hd 5
+http://stream.elcld.com:6003/kids/ch5/ch5_720.m3u8
+#EXTINF:-1,Shabakaty TV kids hd 6
+http://stream.elcld.com:6001/kids/ch6/ch6_720.m3u8
+#EXTINF:-1,Shabakaty TV kids hd 7
+http://stream.shabakaty.com:6001/kids/ch7/ch7_720.m3u8
+#EXTINF:-1,Shabakaty TV kids hd 8
+http://stream.shabakaty.com:6001/kids/ch8/ch8_720.m3u8
+#EXTINF:-1,Shabakaty TV kids hd 9
+http://stream.shabakaty.com:6001/kids/ch9/ch9_720.m3u8
+#EXTINF:-1,Shabakaty TV kids hd 10
+http://stream.shabakaty.com:6001/kids/ch10/ch10_720.m3u8
