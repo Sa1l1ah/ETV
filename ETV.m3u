@@ -1,201 +1,201 @@
 #EXTM3U
-#EXTINF:-1,Shabakaty TV sport hd 1
+#EXTINF:-1,Bein-1
 http://stream.elcld.com:6001/sport/ch1/ch1_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 2
+#EXTINF:-1,Bein-2
 http://stream.elcld.com:6001/sport/ch2/ch2_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 3
+#EXTINF:-1,Bein-3
 http://stream.elcld.com:6001/sport/ch3/ch3_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 4
+#EXTINF:-1,Bein-4
 http://stream.elcld.com:6001/sport/ch4/ch4_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 5
+#EXTINF:-1,Bein-5
 http://stream.elcld.com:6001/sport/ch5/ch5_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 6
+#EXTINF:-1,Bein-6
 http://stream.elcld.com:6001/sport/ch6/ch6_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 7
+#EXTINF:-1,Bein-7
 http://stream.elcld.com:6001/sport/ch7/ch7_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 8
+#EXTINF:-1,Bein-8
 http://stream.elcld.com:6001/sport/ch8/ch8_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 9
+#EXTINF:-1,Bein-9
 http://stream.elcld.com:6001/sport/ch9/ch9_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 10
+#EXTINF:-1,Bein-10
 http://stream.elcld.com:6001/sport/ch10/ch10_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 11
+#EXTINF:-1,Bein-11
 http://stream.elcld.com:6001/sport/ch11/ch11_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 12
+#EXTINF:-1,Bein-12
 http://stream.elcld.com:6001/sport/ch12/ch12_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 13
+#EXTINF:-1,Bein_NBA
 http://stream.elcld.com:6001/sport/ch13/ch13_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 14
+#EXTINF:-1,Osn_wwe
 http://stream.elcld.com:6001/sport/ch14/ch14_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 15
+#EXTINF:-1,Alkass-1
 http://stream.elcld.com:6003/sport/ch15/ch15_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 16
+#EXTINF:-1,Alkass-2
 http://stream.elcld.com:6003/sport/ch16/ch16_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 17
+#EXTINF:-1,Alkass-3
 http://stream.elcld.com:6003/sport/ch17/ch17_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 18
+#EXTINF:-1,Alkass-4
 http://stream.elcld.com:6003/sport/ch18/ch18_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 19
+#EXTINF:-1,Alkass-5
 http://stream.elcld.com:6003/sport/ch19/ch19_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 20
+#EXTINF:-1,AdSport-1
 http://stream.elcld.com:6003/sport/ch20/ch20_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 21
+#EXTINF:-1,AdSport-2
 http://stream.elcld.com:6003/sport/ch21/ch21_720.m3u8
-#EXTINF:-1,Shabakaty TV sport hd 22
+#EXTINF:-1,OsnSports
 http://stream.elcld.com:6003/sport/ch22/ch22_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 1
+#EXTINF:-1,OsnMovies
 http://stream.elcld.com:6002/movies/ch1/ch1_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 2
+#EXTINF:-1,OsnMovies_comedy
 http://stream.elcld.com:6002/movies/ch2/ch2_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 3
+#EXTINF:-1,OsnYahalaCinema
 http://stream.elcld.com:6002/movies/ch3/ch3_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 4
+#EXTINF:-1,OsnMovies_Action
 http://stream.elcld.com:6002/movies/ch4/ch4_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 5
+#EXTINF:-1,StarMovies
 http://stream.elcld.com:6002/movies/ch5/ch5_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 6
+#EXTINF:-1,OsnMovies_Thriller
 http://stream.elcld.com:6002/movies/ch6/ch6_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 7
+#EXTINF:-1,OsnMovies_First
 http://stream.elcld.com:6002/movies/ch7/ch7_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 8
+#EXTINF:-1,BeinM-1
 http://stream.elcld.com:6002/movies/ch8/ch8_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 9
+#EXTINF:-1,BeinM-2
 http://stream.elcld.com:6002/movies/ch9/ch9_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 10
+#EXTINF:-1,BeinM-3
 http://stream.elcld.com:6002/movies/ch10/ch10_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 11
+#EXTINF:-1,BeinM-4
 http://stream.elcld.com:6002/movies/ch11/ch11_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 12
+#EXTINF:-1,StarWorld
 http://stream.elcld.com:6002/movies/ch12/ch12_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 13
+#EXTINF:-1,BoxOffice-1
 http://stream.elcld.com:6002/movies/ch13/ch13_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 14
+#EXTINF:-1,BoxOffice-2
 http://stream.elcld.com:6002/movies/ch14/ch14_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 15
+#EXTINF:-1,OsnMovies_Festival
 http://stream.elcld.com:6002/movies/ch15/ch15_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 16
+#EXTINF:-1,MbcMax
 http://stream.elcld.com:6002/movies/ch16/ch16_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 17
+#EXTINF:-1,MbcAction
 http://stream.elcld.com:6002/movies/ch17/ch17_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 18
+#EXTINF:-1,OsnOnDemand
 http://stream.elcld.com:6002/movies/ch18/ch18_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 19
+#EXTINF:-1,Mbc-2
 http://stream.elcld.com:6002/movies/ch19/ch19_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 20
+#EXTINF:-1,OsnMovies_Premiere
 http://stream.elcld.com:6002/movies/ch20/ch20_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 21
+#EXTINF:-1,RotanaCinema
 http://stream.elcld.com:6002/movies/ch21/ch21_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 22
+#EXTINF:-1,OsnMovies_Action+2
 http://stream.elcld.com:6002/movies/ch22/ch22_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 23
+#EXTINF:-1,OsnMovies_Family
 http://stream.elcld.com:6002/movies/ch23/ch23_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 24
+#EXTINF:-1,AlfaCinema-1
 http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
-#EXTINF:-1,Shabakaty TV movies hd 25
+#EXTINF:-1,AlfaCinema-2
 http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
-#EXTINF:-1,Shabakaty TV series hd 1
+#EXTINF:-1,Seevii_Shamya
 http://stream.elcld.com:6002/series/ch1/ch1_720.m3u8
-#EXTINF:-1,Shabakaty TV series hd 2
+#EXTINF:-1,Osn_Yahala
 http://stream.elcld.com:6002/series/ch2/ch2_720.m3u8
-#EXTINF:-1,Shabakaty TV series hd 3
+#EXTINF:-1,Mbc_Drama
 http://stream.elcld.com:6002/series/ch3/ch3_720.m3u8
-#EXTINF:-1,Shabakaty TV series hd 4
+#EXTINF:-1,Bein_Series-1
 http://stream.elcld.com:6002/series/ch4/ch4_720.m3u8
-#EXTINF:-1,Shabakaty TV series hd 5
+#EXTINF:-1,Seevii_Drama
 http://stream.elcld.com:6002/series/ch5/ch5_720.m3u8
-#EXTINF:-1,Shabakaty TV series hd 6
+#EXTINF:-1,Seevii
 http://stream.elcld.com:6002/series/ch6/ch6_720.m3u8
-#EXTINF:-1,Shabakaty TV series hd 7
+#EXTINF:-1,Bein_Drama
 http://stream.elcld.com:6002/series/ch7/ch7_720.m3u8
-#EXTINF:-1,Shabakaty TV series hd 8
+#EXTINF:-1,Bein_Series-2
 http://stream.elcld.com:6002/series/ch8/ch8_720.m3u8
-#EXTINF:-1,Shabakaty TV series hd 9
+#EXTINF:-1,Osn_HBO
 http://stream.elcld.com:6003/series/ch9/ch9_720.m3u8
-#EXTINF:-1,Shabakaty TV series hd 10
+#EXTINF:-1,Rotana_Drama
 http://stream.elcld.com:6003/series/ch10/ch10_720.m3u8
-#EXTINF:-1,Shabakaty TV series hd 11
+#EXTINF:-1,FXHD
 http://stream.shabakaty.com:6001/series/ch11/ch11_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 1
+#EXTINF:-1,IDx
 http://stream.elcld.com:6002/enter/ch1/ch1_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 2
+#EXTINF:-1,Discovery
 http://stream.elcld.com:6002/enter/ch2/ch2_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 3
+#EXTINF:-1,NatGeoWild
 http://stream.elcld.com:6002/enter/ch3/ch3_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 4
+#EXTINF:-1,Foodnetwork
 http://stream.elcld.com:6002/enter/ch4/ch4_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 5
+#EXTINF:-1,History
 http://stream.elcld.com:6003/enter/ch5/ch5_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 6
+#EXTINF:-1,E!
 http://stream.elcld.com:6003/enter/ch6/ch6_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 7
+#EXTINF:-1,TLC
 http://stream.elcld.com:6003/enter/ch7/ch7_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 8
+#EXTINF:-1,Fatafeat
 http://stream.elcld.com:6003/enter/ch8/ch8_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 9
+#EXTINF:-1,sky_comedy
 http://stream.elcld.com:6003/enter/ch9/ch9_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 10
+#EXTINF:-1,NatGeoPeople
 http://stream.elcld.com:6003/enter/ch10/ch10_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 11
+#EXTINF:-1,ScDiscovery
 http://stream.elcld.com:6003/enter/ch11/ch11_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 12
+#EXTINF:-1,amcHD
 http://stream.elcld.com:6003/enter/ch12/ch12_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 13
+#EXTINF:-1,Mbc
 http://stream.elcld.com:6003/enter/ch13/ch13_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 14
+#EXTINF:-1,Mbc-4
 http://stream.elcld.com:6003/enter/ch14/ch14_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 15
+#EXTINF:-1,NatGeoAbudhabi
 http://stream.elcld.com:6003/enter/ch15/ch15_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 16
+#EXTINF:-1,Mbc_variety
 http://stream.elcld.com:6003/enter/ch16/ch16_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 17
+#EXTINF:-1,NatGeoHd
 http://stream.elcld.com:6002/enter/ch17/ch17_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 18
+#EXTINF:-1,AnimalPlanet
 http://stream.elcld.com:6002/enter/ch18/ch18_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 19
+#EXTINF:-1,Mbc_Misr
 http://stream.elcld.com:6002/enter/ch19/ch19_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 20
+#EXTINF:-1,dmc
 http://stream.elcld.com:6002/enter/ch20/ch20_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 21
+#EXTINF:-1,NpiHits
 http://stream.elcld.com:6002/enter/ch21/ch21_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 22
+#EXTINF:-1,MusicNow
 http://stream.elcld.com:6002/enter/ch22/ch22_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 23
+#EXTINF:-1,Travelchannel
 http://stream.elcld.com:6002/enter/ch23/ch23_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 24
+#EXTINF:-1,Alsharqia
 http://stream.elcld.com:6002/enter/ch24/ch24_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 25
+#EXTINF:-1,Mtv
 http://stream.elcld.com:6002/enter/ch25/ch25_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 26
+#EXTINF:-1,France24
 http://stream.elcld.com:6002/enter/ch26/ch26_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 27
+#EXTINF:-1,Dubai
 http://stream.elcld.com:6002/enter/ch27/ch27_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 28
+#EXTINF:-1,AbuDhabi
 http://stream.elcld.com:6002/enter/ch28/ch28_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 29
+#EXTINF:-1,SamaDubai
 http://stream.elcld.com:6002/enter/ch29/ch29_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 30
+#EXTINF:-1,HGTV
 http://stream.shabakaty.com:6001/enter/ch30/ch30_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 31
+#EXTINF:-1,FoxLife
 http://stream.shabakaty.com:6001/enter/ch31/ch31_720.m3u8
-#EXTINF:-1,Shabakaty TV enter hd 32
+#EXTINF:-1,Outdoor
 http://stream.shabakaty.com:6001/enter/ch32/ch32_720.m3u8
-#EXTINF:-1,Shabakaty TV kids hd 1
+#EXTINF:-1,Bra3em
 http://stream.elcld.com:6003/kids/ch1/ch1_720.m3u8
-#EXTINF:-1,Shabakaty TV kids hd 2
+#EXTINF:-1,OsnMovies_Kids
 http://stream.elcld.com:6003/kids/ch2/ch2_720.m3u8
-#EXTINF:-1,Shabakaty TV kids hd 3
+#EXTINF:-1,Jeem
 http://stream.elcld.com:6003/kids/ch3/ch3_720.m3u8
-#EXTINF:-1,Shabakaty TV kids hd 4
+#EXTINF:-1,Mbc-3
 http://stream.elcld.com:6003/kids/ch4/ch4_720.m3u8
-#EXTINF:-1,Shabakaty TV kids hd 5
+#EXTINF:-1,Nickelodeon
 http://stream.elcld.com:6003/kids/ch5/ch5_720.m3u8
-#EXTINF:-1,Shabakaty TV kids hd 6
+#EXTINF:-1,Disney
 http://stream.elcld.com:6001/kids/ch6/ch6_720.m3u8
-#EXTINF:-1,Shabakaty TV kids hd 7
+#EXTINF:-1,Boomerang
 http://stream.shabakaty.com:6001/kids/ch7/ch7_720.m3u8
-#EXTINF:-1,Shabakaty TV kids hd 8
+#EXTINF:-1,Fix&foxi
 http://stream.shabakaty.com:6001/kids/ch8/ch8_720.m3u8
-#EXTINF:-1,Shabakaty TV kids hd 9
+#EXTINF:-1,gulli
 http://stream.shabakaty.com:6001/kids/ch9/ch9_720.m3u8
-#EXTINF:-1,Shabakaty TV kids hd 10
+#EXTINF:-1,BeJunior
 http://stream.shabakaty.com:6001/kids/ch10/ch10_720.m3u8
