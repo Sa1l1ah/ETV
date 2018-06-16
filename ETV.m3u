@@ -1,201 +1,451 @@
 #EXTM3U
-#EXTINF:-1,Bein-1
+#EXTINF:-1,beIN SPORT 1 max 1080
+http://stream.shabakaty.com:6001/sport/ch14/ch14_1080.m3u8
+#EXTINF:-1,beIN SPORT 2 max 1080
+http://stream.shabakaty.com:6001/sport/ch15/ch15_1080.m3u8
+#EXTINF:-1,beIN SPORT 3 max 1080
+http://stream.shabakaty.com:6001/sport/ch16/ch16_1080.m3u8
+#EXTINF:-1,beIN SPORT 4 max 1080
+http://stream.shabakaty.com:6001/sport/ch17/ch17_1080.m3u8
+#EXTINF:-1,beIN SPORT 1 720
 http://stream.elcld.com:6001/sport/ch1/ch1_720.m3u8
-#EXTINF:-1,Bein-2
+#EXTINF:-1,beIN SPORT 2 720
 http://stream.elcld.com:6001/sport/ch2/ch2_720.m3u8
-#EXTINF:-1,Bein-3
+#EXTINF:-1,beIN SPORT 3 720
 http://stream.elcld.com:6001/sport/ch3/ch3_720.m3u8
-#EXTINF:-1,Bein-4
+#EXTINF:-1,beIN SPORT 4 720
 http://stream.elcld.com:6001/sport/ch4/ch4_720.m3u8
-#EXTINF:-1,Bein-5
+#EXTINF:-1,beIN SPORT 5 720
 http://stream.elcld.com:6001/sport/ch5/ch5_720.m3u8
-#EXTINF:-1,Bein-6
+#EXTINF:-1,beIN SPORT 6 720
 http://stream.elcld.com:6001/sport/ch6/ch6_720.m3u8
-#EXTINF:-1,Bein-7
+#EXTINF:-1,beIN SPORT 7 720
 http://stream.elcld.com:6001/sport/ch7/ch7_720.m3u8
-#EXTINF:-1,Bein-8
+#EXTINF:-1,beIN SPORT 8 720
 http://stream.elcld.com:6001/sport/ch8/ch8_720.m3u8
-#EXTINF:-1,Bein-9
+#EXTINF:-1,beIN SPORT 9 720
 http://stream.elcld.com:6001/sport/ch9/ch9_720.m3u8
-#EXTINF:-1,Bein-10
+#EXTINF:-1,beIN SPORT10 720
 http://stream.elcld.com:6001/sport/ch10/ch10_720.m3u8
-#EXTINF:-1,Bein-11
+#EXTINF:-1,beIN SPORT 11 720
 http://stream.elcld.com:6001/sport/ch11/ch11_720.m3u8
-#EXTINF:-1,Bein-12
-http://stream.elcld.com:6001/sport/ch12/ch12_720.m3u8
-#EXTINF:-1,Bein_NBA
-http://stream.elcld.com:6001/sport/ch13/ch13_720.m3u8
-#EXTINF:-1,Osn_wwe
-http://stream.elcld.com:6001/sport/ch14/ch14_720.m3u8
-#EXTINF:-1,Alkass-1
+#EXTINF:-1,beIN SPORT 12 720
+http://stream.elcld.com:6003/sport/ch12/ch12_720.m3u8
+#EXTINF:-1,beIN NBA 720
+http://stream.elcld.com:6003/sport/ch13/ch13_720.m3u8
+#EXTINF:-1,beIN SPORT 1 max 720
+http://stream.shabakaty.com:6001/sport/ch14/ch14_720.m3u8
+#EXTINF:-1,beIN SPORT 2 max 720
+http://stream.shabakaty.com:6001/sport/ch15/ch15_720.m3u8
+#EXTINF:-1,beIN SPORT 3 max 720
+http://stream.shabakaty.com:6001/sport/ch16/ch16_720.m3u8
+#EXTINF:-1,beIN SPORT 4 max 720
+http://stream.shabakaty.com:6001/sport/ch17/ch17_720.m3u8
+#EXTINF:-1,OSN WWE 11 720
+http://stream.elcld.com:6003/sport/ch14/ch14_720.m3u8
+#EXTINF:-1,ALKASS ONE 720
 http://stream.elcld.com:6003/sport/ch15/ch15_720.m3u8
-#EXTINF:-1,Alkass-2
+#EXTINF:-1,ALKASS TOW 720
 http://stream.elcld.com:6003/sport/ch16/ch16_720.m3u8
-#EXTINF:-1,Alkass-3
+#EXTINF:-1,ALKASS THREE 720
 http://stream.elcld.com:6003/sport/ch17/ch17_720.m3u8
-#EXTINF:-1,Alkass-4
+#EXTINF:-1,ALKASS FOUR 720
 http://stream.elcld.com:6003/sport/ch18/ch18_720.m3u8
-#EXTINF:-1,Alkass-5
+EXTINF:-1,ALKASS FIVE 720
 http://stream.elcld.com:6003/sport/ch19/ch19_720.m3u8
-#EXTINF:-1,AdSport-1
+EXTINF:-1,AD SPORT1 720
 http://stream.elcld.com:6003/sport/ch20/ch20_720.m3u8
-#EXTINF:-1,AdSport-2
+EXTINF:-1,AD SPORT2 720
 http://stream.elcld.com:6003/sport/ch21/ch21_720.m3u8
-#EXTINF:-1,OsnSports
+EXTINF:-1,WWE 720
 http://stream.elcld.com:6003/sport/ch22/ch22_720.m3u8
-#EXTINF:-1,OsnMovies
+#EXTINF:-1,OSN MOVIES 720
 http://stream.elcld.com:6002/movies/ch1/ch1_720.m3u8
-#EXTINF:-1,OsnMovies_comedy
-http://stream.elcld.com:6002/movies/ch2/ch2_720.m3u8
-#EXTINF:-1,OsnYahalaCinema
-http://stream.elcld.com:6002/movies/ch3/ch3_720.m3u8
-#EXTINF:-1,OsnMovies_Action
-http://stream.elcld.com:6002/movies/ch4/ch4_720.m3u8
-#EXTINF:-1,StarMovies
-http://stream.elcld.com:6002/movies/ch5/ch5_720.m3u8
-#EXTINF:-1,OsnMovies_Thriller
-http://stream.elcld.com:6002/movies/ch6/ch6_720.m3u8
-#EXTINF:-1,OsnMovies_First
+#EXTINF:-1,OSN MOVIES FIRST 720
 http://stream.elcld.com:6002/movies/ch7/ch7_720.m3u8
-#EXTINF:-1,BeinM-1
-http://stream.elcld.com:6002/movies/ch8/ch8_720.m3u8
-#EXTINF:-1,BeinM-2
-http://stream.elcld.com:6002/movies/ch9/ch9_720.m3u8
-#EXTINF:-1,BeinM-3
-http://stream.elcld.com:6002/movies/ch10/ch10_720.m3u8
-#EXTINF:-1,BeinM-4
-http://stream.elcld.com:6002/movies/ch11/ch11_720.m3u8
-#EXTINF:-1,StarWorld
-http://stream.elcld.com:6002/movies/ch12/ch12_720.m3u8
-#EXTINF:-1,BoxOffice-1
-http://stream.elcld.com:6002/movies/ch13/ch13_720.m3u8
-#EXTINF:-1,BoxOffice-2
-http://stream.elcld.com:6002/movies/ch14/ch14_720.m3u8
-#EXTINF:-1,OsnMovies_Festival
-http://stream.elcld.com:6002/movies/ch15/ch15_720.m3u8
-#EXTINF:-1,MbcMax
-http://stream.elcld.com:6002/movies/ch16/ch16_720.m3u8
-#EXTINF:-1,MbcAction
-http://stream.elcld.com:6002/movies/ch17/ch17_720.m3u8
-#EXTINF:-1,OsnOnDemand
-http://stream.elcld.com:6002/movies/ch18/ch18_720.m3u8
-#EXTINF:-1,Mbc-2
-http://stream.elcld.com:6002/movies/ch19/ch19_720.m3u8
-#EXTINF:-1,OsnMovies_Premiere
-http://stream.elcld.com:6002/movies/ch20/ch20_720.m3u8
-#EXTINF:-1,RotanaCinema
-http://stream.elcld.com:6002/movies/ch21/ch21_720.m3u8
-#EXTINF:-1,OsnMovies_Action+2
-http://stream.elcld.com:6002/movies/ch22/ch22_720.m3u8
-#EXTINF:-1,OsnMovies_Family
-http://stream.elcld.com:6002/movies/ch23/ch23_720.m3u8
-#EXTINF:-1,AlfaCinema-1
-http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
-#EXTINF:-1,AlfaCinema-2
-http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
-#EXTINF:-1,Seevii_Shamya
-http://stream.elcld.com:6002/series/ch1/ch1_720.m3u8
-#EXTINF:-1,Osn_Yahala
-http://stream.elcld.com:6002/series/ch2/ch2_720.m3u8
-#EXTINF:-1,Mbc_Drama
-http://stream.elcld.com:6002/series/ch3/ch3_720.m3u8
-#EXTINF:-1,Bein_Series-1
-http://stream.elcld.com:6002/series/ch4/ch4_720.m3u8
-#EXTINF:-1,Seevii_Drama
-http://stream.elcld.com:6002/series/ch5/ch5_720.m3u8
-#EXTINF:-1,Seevii
-http://stream.elcld.com:6002/series/ch6/ch6_720.m3u8
-#EXTINF:-1,Bein_Drama
-http://stream.elcld.com:6002/series/ch7/ch7_720.m3u8
-#EXTINF:-1,Bein_Series-2
-http://stream.elcld.com:6002/series/ch8/ch8_720.m3u8
-#EXTINF:-1,Osn_HBO
-http://stream.elcld.com:6003/series/ch9/ch9_720.m3u8
-#EXTINF:-1,Rotana_Drama
-http://stream.elcld.com:6003/series/ch10/ch10_720.m3u8
-#EXTINF:-1,FXHD
-http://stream.shabakaty.com:6001/series/ch11/ch11_720.m3u8
-#EXTINF:-1,IDx
-http://stream.elcld.com:6002/enter/ch1/ch1_720.m3u8
-#EXTINF:-1,Discovery
-http://stream.elcld.com:6002/enter/ch2/ch2_720.m3u8
-#EXTINF:-1,NatGeoWild
-http://stream.elcld.com:6002/enter/ch3/ch3_720.m3u8
-#EXTINF:-1,Foodnetwork
-http://stream.elcld.com:6002/enter/ch4/ch4_720.m3u8
-#EXTINF:-1,History
-http://stream.elcld.com:6003/enter/ch5/ch5_720.m3u8
-#EXTINF:-1,E!
-http://stream.elcld.com:6003/enter/ch6/ch6_720.m3u8
-#EXTINF:-1,TLC
-http://stream.elcld.com:6003/enter/ch7/ch7_720.m3u8
-#EXTINF:-1,Fatafeat
-http://stream.elcld.com:6003/enter/ch8/ch8_720.m3u8
-#EXTINF:-1,sky_comedy
-http://stream.elcld.com:6003/enter/ch9/ch9_720.m3u8
-#EXTINF:-1,NatGeoPeople
-http://stream.elcld.com:6003/enter/ch10/ch10_720.m3u8
-#EXTINF:-1,ScDiscovery
-http://stream.elcld.com:6003/enter/ch11/ch11_720.m3u8
-#EXTINF:-1,amcHD
-http://stream.elcld.com:6003/enter/ch12/ch12_720.m3u8
-#EXTINF:-1,Mbc
-http://stream.elcld.com:6003/enter/ch13/ch13_720.m3u8
-#EXTINF:-1,Mbc-4
-http://stream.elcld.com:6003/enter/ch14/ch14_720.m3u8
-#EXTINF:-1,NatGeoAbudhabi
-http://stream.elcld.com:6003/enter/ch15/ch15_720.m3u8
-#EXTINF:-1,Mbc_variety
-http://stream.elcld.com:6003/enter/ch16/ch16_720.m3u8
-#EXTINF:-1,NatGeoHd
-http://stream.elcld.com:6002/enter/ch17/ch17_720.m3u8
-#EXTINF:-1,AnimalPlanet
-http://stream.elcld.com:6002/enter/ch18/ch18_720.m3u8
-#EXTINF:-1,Mbc_Misr
-http://stream.elcld.com:6002/enter/ch19/ch19_720.m3u8
-#EXTINF:-1,dmc
-http://stream.elcld.com:6002/enter/ch20/ch20_720.m3u8
-#EXTINF:-1,NpiHits
-http://stream.elcld.com:6002/enter/ch21/ch21_720.m3u8
-#EXTINF:-1,MusicNow
-http://stream.elcld.com:6002/enter/ch22/ch22_720.m3u8
-#EXTINF:-1,Travelchannel
-http://stream.elcld.com:6002/enter/ch23/ch23_720.m3u8
-#EXTINF:-1,Alsharqia
-http://stream.elcld.com:6002/enter/ch24/ch24_720.m3u8
-#EXTINF:-1,Mtv
-http://stream.elcld.com:6002/enter/ch25/ch25_720.m3u8
-#EXTINF:-1,France24
-http://stream.elcld.com:6002/enter/ch26/ch26_720.m3u8
-#EXTINF:-1,Dubai
-http://stream.elcld.com:6002/enter/ch27/ch27_720.m3u8
-#EXTINF:-1,AbuDhabi
-http://stream.elcld.com:6002/enter/ch28/ch28_720.m3u8
-#EXTINF:-1,SamaDubai
-http://stream.elcld.com:6002/enter/ch29/ch29_720.m3u8
-#EXTINF:-1,HGTV
-http://stream.shabakaty.com:6001/enter/ch30/ch30_720.m3u8
-#EXTINF:-1,FoxLife
-http://stream.shabakaty.com:6001/enter/ch31/ch31_720.m3u8
-#EXTINF:-1,Outdoor
-http://stream.shabakaty.com:6001/enter/ch32/ch32_720.m3u8
-#EXTINF:-1,Bra3em
-http://stream.elcld.com:6003/kids/ch1/ch1_720.m3u8
-#EXTINF:-1,OsnMovies_Kids
+#EXTINF:-1,OSN MOVIES ACTION 720
+http://stream.elcld.com:6002/movies/ch4/ch4_720.m3u8
+#EXTINF:-1,OSN MOVIES THRILLER 720
+http://stream.elcld.com:6002/movies/ch6/ch6_720.m3u8
+#EXTINF:-1,OSN MOVIES FESTIVAL 720
+http://stream.elcld.com:6003/movies/ch15/ch15_720.m3u8
+#EXTINF:-1,OSN MOVIES BOXOFFICE1 720
+http://stream.elcld.com:6003/movies/ch13/ch13_720.m3u8
+#EXTINF:-1,OSN MOVIES BOXOFFICE2 720
+http://stream.elcld.com:6003/movies/ch13/ch13_720.m3u8
+#EXTINF:-1,STAR MOVIES 720
+http://stream.elcld.com:6002/movies/ch5/ch5_720.m3u8
+#EXTINF:-1,STAR WORLD 720
+http://stream.elcld.com:6003/movies/ch12/ch12_720.m3u8
+#EXTINF:-1,OSN MOVIES KIDS 720
 http://stream.elcld.com:6003/kids/ch2/ch2_720.m3u8
-#EXTINF:-1,Jeem
+#EXTINF:-1,BEIN MOVIES1 720
+http://stream.elcld.com:6002/movies/ch8/ch8_720.m3u8
+#EXTINF:-1,BEIN MOVIES2 720
+http://stream.elcld.com:6002/movies/ch9/ch9_720.m3u8
+#EXTINF:-1,BEIN MOVIES3 720
+http://stream.elcld.com:6002/movies/ch10/ch10_720.m3u8
+#EXTINF:-1,BEIN MOVIES4 720
+http://stream.elcld.com:6002/movies/ch11/ch11_720.m3u8
+#EXTINF:-1,MBC.MAX.720
+http://stream.elcld.com:6002/movies/ch16/ch16_720.m3u8
+#EXTINF:-1,MBC.ACTION.720
+http://stream.elcld.com:6002/movies/ch17/ch17_720.m3u8
+#EXTINF:-1,MBC.2.720
+http://stream.elcld.com:6002/movies/ch19/ch19_720.m3u8
+#EXTINF:-1,OSN ONDEMOND.720
+http://stream.elcld.com:6002/movies/ch18/ch18_720.m3u8.
+#EXTINF:-1,OSN YAHALA 720
+http://stream.elcld.com:6002/series/ch2/ch2_720.m3u8
+#EXTINF:-1,BEIN.DRAMA.HD.720
+http://stream.elcld.com:6003/series/ch7/ch7_720.m3u8
+#EXTINF:-1,SEEVI SHAMIA 720
+http://stream.elcld.com:6002/series/ch1/ch1_720.m3u8
+#EXTINF:-1,MBC DRAMA 720
+http://stream.elcld.com:6002/series/ch3/ch3_720.m3u8
+#EXTINF:-1,MBC DRAMA+ 720
+http://stream.elcld.com:6003/series/ch5/ch5_720.m3u8
+#EXTINF:-1,OSN DRAMA 720
+http://stream.elcld.com:6003/series/ch6/ch6_720.m3u8
+#EXTINF:-1,BEIN.SERIES1.720
+http://stream.elcld.com:6002/series/ch4/ch4_720.m3u8
+#EXTINF:-1,BEIN.SERIES2.720
+http://stream.elcld.com:6002/series/ch8/ch8_720.m3u8
+#EXTINF:-1,OSN YAHALA CINAMA 720
+http://stream.elcld.com:6002/movies/ch3/ch3_720.m3u8
+#EXTINF:-1,ART CINAMA 720
+http://stream.elcld.com:6002/movies/ch2/ch2_720.m3u8
+#EXTINF:-1,MBC 720
+http://stream.elcld.com:6002/enter/ch13/ch13_720.m3u8
+#EXTINF:-1,MBC 4 720
+http://stream.elcld.com:6002/enter/ch14/ch14_720.m3u8
+#EXTINF:-1,MBC VARITEY 720
+http://stream.elcld.com:6002/enter/ch16/ch16_720.m3u8
+#EXTINF:-1,E! HD 720
+http://stream.elcld.com:6003/enter/ch6/ch6_720.m3u8
+#EXTINF:-1,FASHION HD 720
+http://stream.elcld.com:6003/enter/ch12/ch12_720.m3u8
+#EXTINF:-1,TLC HD 720
+http://stream.elcld.com:6003/enter/ch7/ch7_720.m3u8
+#EXTINF:-1,HISTORY 720
+http://stream.elcld.com:6003/enter/ch5/ch5_720.m3u8
+#EXTINF:-1,HISTORY2 720
+http://stream.elcld.com:6003/enter/ch10/ch10_720.m3u8
+#EXTINF:-1,D.SINCE 720
+http://stream.elcld.com:6003/enter/ch11/ch11_720.m3u8
+#EXTINF:-1,IDX 720
+http://stream.elcld.com:6002/enter/ch1/ch1_720.m3u8
+#EXTINF:-1,DISCOVERY 720
+http://stream.elcld.com:6002/enter/ch2/ch2_720.m3u8
+#EXTINF:-1,NAT GEO WILD 720
+http://stream.elcld.com:6002/enter/ch3/ch3_720.m3u8
+#EXTINF:-1,NAT GEO AD 720
+http://stream.elcld.com:6002/enter/ch15/ch15_720.m3u8
+#EXTINF:-1,BARAEM 720
+http://stream.elcld.com:6003/kids/ch1/ch1_720.m3u8
+#EXTINF:-1,GEEM 720
 http://stream.elcld.com:6003/kids/ch3/ch3_720.m3u8
-#EXTINF:-1,Mbc-3
-http://stream.elcld.com:6003/kids/ch4/ch4_720.m3u8
-#EXTINF:-1,Nickelodeon
-http://stream.elcld.com:6003/kids/ch5/ch5_720.m3u8
-#EXTINF:-1,Disney
-http://stream.elcld.com:6001/kids/ch6/ch6_720.m3u8
-#EXTINF:-1,Boomerang
-http://stream.shabakaty.com:6001/kids/ch7/ch7_720.m3u8
-#EXTINF:-1,Fix&foxi
-http://stream.shabakaty.com:6001/kids/ch8/ch8_720.m3u8
-#EXTINF:-1,gulli
-http://stream.shabakaty.com:6001/kids/ch9/ch9_720.m3u8
-#EXTINF:-1,BeJunior
-http://stream.shabakaty.com:6001/kids/ch10/ch10_720.m3u8
+#EXTINF:-1,MBC 3 720
+http://stream.elcld.com:6002/kids/ch4/ch4_720.m3u8
+#EXTINF:-1,NEKLODEN.720
+http://stream.elcld.com:6002/kids/ch5/ch5_720.m3u8
+#EXTINF:-1,FOOD 720
+http://stream.elcld.com:6002/enter/ch4/ch4_720.m3u8
+#EXTINF:-1,FATAFEAT2 720
+http://stream.elcld.com:6003/enter/ch8/ch8_720.m3u8
+#EXTINF:-1,beIN SPORT 1 360
+http://stream.elcld.com:6001/sport/ch1/ch1_360.m3u8
+#EXTINF:-1,beIN SPORT 2 360
+http://stream.elcld.com:6001/sport/ch2/ch2_360.m3u8
+#EXTINF:-1,beIN SPORT 3 360
+http://stream.elcld.com:6001/sport/ch3/ch3_360.m3u8
+#EXTINF:-1,beIN SPORT 4 360
+http://stream.elcld.com:6001/sport/ch4/ch4_360.m3u8
+#EXTINF:-1,beIN SPORT 5 360
+http://stream.elcld.com:6001/sport/ch5/ch5_360.m3u8
+#EXTINF:-1,beIN SPORT 6 360
+http://stream.elcld.com:6001/sport/ch6/ch6_360.m3u8
+#EXTINF:-1,beIN SPORT 7 360
+http://stream.elcld.com:6001/sport/ch7/ch7_360.m3u8
+#EXTINF:-1,beIN SPORT 8 360
+http://stream.elcld.com:6001/sport/ch8/ch8_360.m3u8
+#EXTINF:-1,beIN SPORT 9 360
+http://stream.elcld.com:6001/sport/ch9/ch9_360.m3u8
+#EXTINF:-1,beIN SPORT10 360
+http://stream.elcld.com:6001/sport/ch10/ch10_360.m3u8
+#EXTINF:-1,beIN SPORT 11 360
+http://stream.elcld.com:6001/sport/ch11/ch11_360.m3u8
+#EXTINF:-1,beIN SPORT 12 360
+http://stream.elcld.com:6003/sport/ch12/ch12_360.m3u8
+#EXTINF:-1,beIN NBA 360
+http://stream.elcld.com:6003/sport/ch13/ch13_360.m3u8
+#EXTINF:-1,beIN SPORT 1 max 360
+http://stream.shabakaty.com:6001/sport/ch14/ch14_360.m3u8
+#EXTINF:-1,beIN SPORT 2 max 360
+http://stream.shabakaty.com:6001/sport/ch15/ch15_360.m3u8
+#EXTINF:-1,beIN SPORT 3 max 360
+http://stream.shabakaty.com:6001/sport/ch16/ch16_360.m3u8
+#EXTINF:-1,beIN SPORT 4 max 360
+http://stream.shabakaty.com:6001/sport/ch17/ch17_360.m3u8
+#EXTINF:-1,OSN WWE 360
+http://stream.elcld.com:6003/sport/ch14/ch14_360.m3u8
+#EXTINF:-1,bALKASS.ONE.360
+http://stream.elcld.com:6003/sport/ch15/ch15_360.m3u8
+#EXTINF:-1,bALKASS.TOW.360
+http://stream.elcld.com:6003/sport/ch16/ch16_360.m3u8
+#EXTINF:-1,bALKASS.THREE.360
+http://stream.elcld.com:6003/sport/ch17/ch17_360.m3u8
+#EXTINF:-1,bALKASS.FOUR.360
+http://stream.elcld.com:6003/sport/ch18/ch18_360.m3u8
+#EXTINF:-1,bALKASS.FIVE.360
+http://stream.elcld.com:6003/sport/ch19/ch19_360.m3u8
+EXTINF:-1,AD SPORT1.360
+http://stream.elcld.com:6003/sport/ch20/ch20_360.m3u8
+#EXTINF:-1,AD SPORT2.360
+http://stream.elcld.com:6003/sport/ch21/ch21_360.m3u8
+#EXTINF:-1,WWE.360
+http://stream.elcld.com:6003/sport/ch22/ch22_360.m3u8
+#EXTINF:-1,OSN MOVIES 360
+http://stream.elcld.com:6002/movies/ch1/ch1_360.m3u8
+#EXTINF:-1,OSN MOVIES FIRST 360
+http://stream.elcld.com:6002/movies/ch7/ch7_360.m3u8
+#EXTINF:-1,OSN MOVIES ACTION 360
+http://stream.elcld.com:6002/movies/ch4/ch4_360.m3u8
+#EXTINF:-1,OSN MOVIES THRILLER 360
+http://stream.elcld.com:6002/movies/ch6/ch6_360.m3u8
+#EXTINF:-1,OSN MOVIES FESTIVAL 360
+http://stream.elcld.com:6003/movies/ch15/ch15_360.m3u8
+#EXTINF:-1,OSN MOVIES BOXOFFICE1 360
+http://stream.elcld.com:6003/movies/ch13/ch13_360.m3u8
+#EXTINF:-1,OSN MOVIES BOXOFFICE2 360
+http://stream.elcld.com:6003/movies/ch14/ch14_360.m3u8
+#EXTINF:-1,STAR MOVIES 360
+http://stream.elcld.com:6002/movies/ch5/ch5_360.m3u8
+#EXTINF:-1,STAR WORLD 360
+http://stream.elcld.com:6003/movies/ch12/ch12_360.m3u8
+#EXTINF:-1,OSN MOVIES KIDS 360
+http://stream.elcld.com:6003/kids/ch2/ch2_360.m3u8
+#EXTINF:-1,BEIN MOVIES1 360
+http://stream.elcld.com:6002/movies/ch8/ch8_360.m3u8
+#EXTINF:-1,BEIN MOVIES2 360
+http://stream.elcld.com:6002/movies/ch9/ch9_360.m3u8
+#EXTINF:-1,BEIN MOVIES3 360
+http://stream.elcld.com:6002/movies/ch10/ch10_360.m3u8
+#EXTINF:-1,BEIN MOVIES4 360
+http://stream.elcld.com:6002/movies/ch11/ch11_360.m3u8
+#EXTINF:-1,SKY COMEDY 360
+http://stream.elcld.com:6003/enter/ch9/ch9_360.m3u8
+#EXTINF:-1,MBC.MAX.360
+http://stream.elcld.com:6002/movies/ch16/ch16_360.m3u8
+#EXTINF:-1,MBC.ACTION.360
+http://stream.elcld.com:6002/movies/ch17/ch17_360.m3u8
+#EXTINF:-1,MBC.2.360
+http://stream.elcld.com:6002/movies/ch19/ch19_360.m3u8
+#EXTINF:-1,OSN ONDEMOND.360
+http://stream.elcld.com:6002/movies/ch18/ch18_360.m3u8
+#EXTINF:-1,OSN YAHALA 360
+http://stream.elcld.com:6002/series/ch2/ch2_360.m3u8
+#EXTINF:-1,BEIN.DRAMA.HD.360
+http://stream.elcld.com:6003/series/ch7/ch7_720.m3u8
+#EXTINF:-1,SEEVI SHAMIA 360
+http://stream.elcld.com:6002/series/ch1/ch1_360.m3u8
+#EXTINF:-1,MBC DRAMA 360
+http://stream.elcld.com:6002/series/ch3/ch3_360.m3u8
+#EXTINF:-1,MBC DRAMA++ 360
+http://stream.elcld.com:6003/series/ch5/ch5_360.m3u8
+#EXTINF:-1,OSN DRAMA 360
+http://stream.elcld.com:6003/series/ch6/ch6_360.m3u8
+#EXTINF:-1,BEIN.SERIES1.360
+http://stream.elcld.com:6002/series/ch4/ch4_360.m3u8
+#EXTINF:-1,BEIN.SERIES2.360
+http://stream.elcld.com:6002/series/ch8/ch8_360.m3u8
+#EXTINF:-1,OSN YAHALA CINAMA 360
+http://stream.elcld.com:6002/movies/ch3/ch3_360.m3u8
+#EXTINF:-1,ART CINAMA 360
+http://stream.elcld.com:6002/movies/ch2/ch2_360.m3u8
+#EXTINF:-1,MBC 360
+http://stream.elcld.com:6002/enter/ch13/ch13_360.m3u8
+#EXTINF:-1,MBC 4 360
+http://stream.elcld.com:6002/enter/ch14/ch14_360.m3u8
+#EXTINF:-1,MBC VARITEY 360
+http://stream.elcld.com:6002/enter/ch16/ch16_360.m3u8
+#EXTINF:-1,E! HD 360
+http://stream.elcld.com:6003/enter/ch6/ch6_360.m3u8
+#EXTINF:-1,FASHION HD 360
+http://stream.elcld.com:6003/enter/ch12/ch12_360.m3u8
+#EXTINF:-1,TLC HD 360
+http://stream.elcld.com:6003/enter/ch7/ch7_360.m3u8
+#EXTINF:-1,HISTORY 360
+http://stream.elcld.com:6003/enter/ch5/ch5_360.m3u8
+#EXTINF:-1,HISTORY2 360
+http://stream.elcld.com:6003/enter/ch10/ch10_360.m3u8
+#EXTINF:-1,D.SINCE 360
+http://stream.elcld.com:6003/enter/ch11/ch11_360.m3u8
+#EXTINF:-1,IDX 360
+http://stream.elcld.com:6002/enter/ch1/ch1_360.m3u8
+#EXTINF:-1,DISCOVERY 360
+http://stream.elcld.com:6002/enter/ch2/ch2_360.m3u8
+#EXTINF:-1,NAT GEO WILD 360
+http://stream.elcld.com:6002/enter/ch3/ch3_360.m3u8
+#EXTINF:-1,NAT GEO AD 360
+http://stream.elcld.com:6002/enter/ch15/ch15_360.m3u8
+#EXTINF:-1,BARAEM 360
+http://stream.elcld.com:6003/kids/ch1/ch1_360.m3u8
+#EXTINF:-1,GEEM 360
+http://stream.elcld.com:6003/kids/ch3/ch3_360.m3u8
+#EXTINF:-1,MBC 3 360
+http://stream.elcld.com:6002/kids/ch4/ch4_360.m3u8
+#EXTINF:-1,NEKLODEN.360
+http://stream.elcld.com:6002/kids/ch5/ch5_360.m3u8
+#EXTINF:-1,FOOD 360
+http://stream.elcld.com:6002/enter/ch4/ch4_360.m3u8
+#EXTINF:-1,FATAFEAT2 360
+http://stream.elcld.com:6003/enter/ch8/ch8_360.m3u8
+#EXTINF:-1,beIN SPORT 1 240
+http://stream.elcld.com:6001/sport/ch1/ch1_240.m3u8
+#EXTINF:-1,beIN SPORT 2 240
+http://stream.elcld.com:6001/sport/ch2/ch2_240.m3u8
+#EXTINF:-1,beIN SPORT 3 240
+http://stream.elcld.com:6001/sport/ch3/ch3_240.m3u8
+#EXTINF:-1,beIN SPORT 4 240
+http://stream.elcld.com:6001/sport/ch4/ch4_240.m3u8
+#EXTINF:-1,beIN SPORT 5 240
+http://stream.elcld.com:6001/sport/ch5/ch5_240.m3u8
+#EXTINF:-1,beIN SPORT 6 240
+http://stream.elcld.com:6001/sport/ch6/ch6_240.m3u8
+#EXTINF:-1,beIN SPORT 7 240
+http://stream.elcld.com:6001/sport/ch7/ch7_240.m3u8
+#EXTINF:-1,beIN SPORT 8 240
+http://stream.elcld.com:6001/sport/ch8/ch8_240.m3u8
+#EXTINF:-1,beIN SPORT 9 240
+http://stream.elcld.com:6001/sport/ch9/ch9_240.m3u8
+#EXTINF:-1,beIN SPORT10 240
+http://stream.elcld.com:6001/sport/ch10/ch10_240.m3u8
+#EXTINF:-1,beIN SPORT 11 240
+http://stream.elcld.com:6001/sport/ch11/ch11_240.m3u8
+#EXTINF:-1,beIN SPORT 12 240
+http://stream.elcld.com:6003/sport/ch12/ch12_240.m3u8
+#EXTINF:-1,beIN NBA 240
+http://stream.elcld.com:6003/sport/ch13/ch13_240.m3u8
+#EXTINF:-1,beIN SPORT 1 max 240
+http://stream.shabakaty.com:6001/sport/ch14/ch14_240.m3u8
+#EXTINF:-1,beIN SPORT 2 max 240
+http://stream.shabakaty.com:6001/sport/ch15/ch15_240.m3u8
+#EXTINF:-1,beIN SPORT 3 max 240
+http://stream.shabakaty.com:6001/sport/ch16/ch16_240.m3u8
+#EXTINF:-1,beIN SPORT 4 max 240
+http://stream.shabakaty.com:6001/sport/ch17/ch17_240.m3u8
+#EXTINF:-1,OSN WWE 240
+http://stream.elcld.com:6003/sport/ch14/ch14_240.m3u8
+#EXTINF:-1,bALKASS.ONE.240
+http://stream.elcld.com:6003/sport/ch15/ch15_240.m3u8
+#EXTINF:-1,bALKASS.TOW.240
+http://stream.elcld.com:6003/sport/ch16/ch16_240.m3u8
+#EXTINF:-1,bALKASS.THREE.240
+http://stream.elcld.com:6003/sport/ch17/ch17_240.m3u8
+#EXTINF:-1,bALKASS.FOUR.240
+http://stream.elcld.com:6003/sport/ch18/ch18_240.m3u8
+#EXTINF:-1,bALKASS.FIVE.240
+http://stream.elcld.com:6003/sport/ch19/ch19_240.m3u8
+#EXTINF:-1,AD SPORT1.240
+http://stream.elcld.com:6003/sport/ch20/ch20_240.m3u8
+#EXTINF:-1,AD SPORT2.240
+http://stream.elcld.com:6003/sport/ch21/ch21_240.m3u8
+#EXTINF:-1,WWE.240
+http://stream.elcld.com:6003/sport/ch22/ch22_240.m3u8
+#EXTINF:-1,OSN MOVIES 240
+http://stream.elcld.com:6002/movies/ch1/ch1_240.m3u8
+#EXTINF:-1,OSN MOVIES FIRST 240
+http://stream.elcld.com:6002/movies/ch7/ch7_240.m3u8
+#EXTINF:-1,OSN MOVIES ACTION 240
+http://stream.elcld.com:6002/movies/ch4/ch4_240.m3u8
+#EXTINF:-1,OSN MOVIES THRILLER 240
+http://stream.elcld.com:6002/movies/ch6/ch6_240.m3u8
+#EXTINF:-1,OSN MOVIES FESTIVAL 240
+http://stream.elcld.com:6003/movies/ch15/ch15_240.m3u8
+#EXTINF:-1,OSN BOXOFFICE1 240
+http://stream.elcld.com:6003/movies/ch13/ch13_240.m3u8
+#EXTINF:-1,OSN BOXOFFICE2 240
+http://stream.elcld.com:6003/movies/ch14/ch14_240.m3u8
+#EXTINF:-1,STAR MOVIES 240
+http://stream.elcld.com:6002/movies/ch5/ch5_240.m3u8
+#EXTINF:-1,STAR WORLD 240
+http://stream.elcld.com:6003/movies/ch12/ch12_240.m3u8
+#EXTINF:-1,OSN MOVIES KIDS 240
+http://stream.elcld.com:6003/kids/ch2/ch2_240.m3u8
+#EXTINF:-1,BEIN MOVIES1 240
+http://stream.elcld.com:6002/movies/ch8/ch8_240.m3u8
+#EXTINF:-1,BEIN MOVIES2 240
+http://stream.elcld.com:6002/movies/ch9/ch9_240.m3u8
+#EXTINF:-1,BEIN MOVIES3 240
+http://stream.elcld.com:6002/movies/ch10/ch10_240.m3u8
+#EXTINF:-1,BEIN MOVIES4 240
+http://stream.elcld.com:6002/movies/ch11/ch11_240.m3u8
+#EXTINF:-1,SKY COMEDY 240
+http://stream.elcld.com:6003/enter/ch9/ch9_240.m3u8
+#EXTINF:-1,MBC.MAX.240
+http://stream.elcld.com:6002/movies/ch16/ch16_240.m3u8
+#EXTINF:-1,MBC.ACTION.240
+http://stream.elcld.com:6002/movies/ch17/ch17_240.m3u8
+#EXTINF:-1,MBC.2.240
+http://stream.elcld.com:6002/movies/ch19/ch19_240.m3u8
+#EXTINF:-1,OSN ONDEMOND.240
+http://stream.elcld.com:6002/movies/ch18/ch18_240.m3u8
+#EXTINF:-1,OSN YAHALA 240
+http://stream.elcld.com:6002/series/ch2/ch2_240.m3u8
+#EXTINF:-1,BEIN.DRAMA.HD.240
+http://stream.elcld.com:6003/series/ch7/ch7_720.m3u8
+#EXTINF:-1,SEEVI SHAMIA 240
+http://stream.elcld.com:6002/series/ch1/ch1_240.m3u8
+#EXTINF:-1,MBC DRAMA 240
+http://stream.elcld.com:6002/series/ch3/ch3_240.m3u8
+#EXTINF:-1,MBC DRAMA++ 240
+http://stream.elcld.com:6003/series/ch5/ch5_240.m3u8
+#EXTINF:-1,OSN DRAMA 240
+http://stream.elcld.com:6002/series/ch6/ch6_240.m3u8
+#EXTINF:-1,BEIN.SERIES1.240
+http://stream.elcld.com:6002/series/ch4/ch4_240.m3u8
+#EXTINF:-1,BEIN.SERIES2.240
+http://stream.elcld.com:6002/series/ch8/ch8_240.m3u8
+#EXTINF:-1,OSN YAHALA CINAMA 240
+http://stream.elcld.com:6002/movies/ch3/ch3_240.m3u8
+#EXTINF:-1,ART CINAMA 240
+http://stream.elcld.com:6002/movies/ch2/ch2_240.m3u8
+#EXTINF:-1,MBC 240
+http://stream.elcld.com:6002/enter/ch13/ch13_240.m3u8
+#EXTINF:-1,MBC 4 240
+http://stream.elcld.com:6002/enter/ch14/ch14_240.m3u8
+#EXTINF:-1,MBC VARITEY 240
+http://stream.elcld.com:6002/enter/ch16/ch16_240.m3u8
+#EXTINF:-1,E! HD 240
+http://stream.elcld.com:6003/enter/ch6/ch6_240.m3u8
+#EXTINF:-1,FASHION HD 240
+http://stream.elcld.com:6003/enter/ch12/ch12_240.m3u8
+#EXTINF:-1,TLC HD 240
+http://stream.elcld.com:6003/enter/ch7/ch7_240.m3u8
+#EXTINF:-1,HISTORY 240
+http://stream.elcld.com:6003/enter/ch5/ch5_240.m3u8
+#EXTINF:-1,HISTORY2 240
+http://stream.elcld.com:6003/enter/ch10/ch10_240.m3u8
+#EXTINF:-1,D.SINCE 240
+http://stream.elcld.com:6003/enter/ch11/ch11_240.m3u8
+#EXTINF:-1,IDX 240
+http://stream.elcld.com:6002/enter/ch1/ch1_240.m3u8
+#EXTINF:-1,DISCOVERY 240
+http://stream.elcld.com:6002/enter/ch2/ch2_240.m3u8
+#EXTINF:-1,NAT GEO WILD 240
+http://stream.elcld.com:6002/enter/ch3/ch3_240.m3u8
+#EXTINF:-1,NAT GEO AD 240
+http://stream.elcld.com:6002/enter/ch15/ch15_240.m3u8
+#EXTINF:-1,BARAEM 240
+http://stream.elcld.com:6003/kids/ch1/ch1_240.m3u8
+#EXTINF:-1,GEEM 240
+http://stream.elcld.com:6003/kids/ch3/ch3_240.m3u8
+#EXTINF:-1,MBC 3 240
+http://stream.elcld.com:6002/kids/ch4/ch4_240.m3u8
+#EXTINF:-1,NEKLODEN.240
+http://stream.elcld.com:6002/kids/ch5/ch5_240.m3u8
+#EXTINF:-1,FOOD 240
+http://stream.elcld.com:6002/enter/ch4/ch4_240.m3u8
+#EXTINF:-1,FATAFEAT2 240
+http://stream.elcld.com:6003/enter/ch8/ch8_240.m3u8
